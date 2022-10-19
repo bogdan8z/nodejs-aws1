@@ -18,11 +18,13 @@ you have to options:
     "tweet":"2222"
     }
     ```
-3. POST index
-    ``` 
-    POST / 
-    ```
-4. get all users
+3. get all users
     ```
     GET /users
     ```
+4. POST index
+    ``` 
+    POST / 
+    ```
+## Other links
+[Jade Template Engine](https://www.tutorialsteacher.com/nodejs/jade-template-engine)
